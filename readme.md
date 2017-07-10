@@ -34,6 +34,11 @@ C#+6.0+in+a+Nutshell.pdf
 C++ C编程指南》.林锐着.pdf
 C++ Primer Fifth Edition.pdf
 Go语言编程.pdf
+Lua 5.pdf
+Lua中文教程.pdf
+Programming in Lua third edition.pdf
+Programming in Lua, Third Edition by Roberto Ierusalimschy, Lua.org; 3 edition (January 3, 2013).epub
+Programming in Lua, Third Edition by Roberto Ierusalimschy, Lua.org; 3 edition (January 3, 2013).mobi
 Threading in C#.pdf
 ## server
 大型多人在线游戏开发_20.pdf
