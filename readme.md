@@ -13,6 +13,7 @@ TCP_IP_第5版.pdf
 O'Reilly.High.Performance.MySQL.3rd.Edition.Mar.2012.pdf
 QConSF2012-EricBrewer-NoSQLPastPresentFuture.pdf
 Redis in Action.pdf
+REDIS 入门指南.pdf
 Spanner Googles Globally Distributed Database.pdf
 ## distributed system
 Distributed Systems Concepts and Design 5ed.pdf
@@ -29,9 +30,11 @@ podc-1996.pdf
 proactor.pdf
 threads.pdf
 ## program language
+C#+6.0+in+a+Nutshell.pdf
 C++ C编程指南》.林锐着.pdf
 C++ Primer Fifth Edition.pdf
 Go语言编程.pdf
+Threading in C#.pdf
 ## server
 大型多人在线游戏开发_20.pdf
 大型网站技术架构+核心原理与案例分析+李智慧.pdf
@@ -42,5 +45,6 @@ LINUX SHELL脚本攻略(中文版带书签).pdf
 Clean Code.pdf
 DesignPatterns.pdf
 Refactoring_improving_the_design_of_existing_code.pdf
+大话设计模式(带目录完整版).pdf
 ## tools
 progit.pdf
