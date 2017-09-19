@@ -5,6 +5,7 @@
 lock-free-vector.pdf
 Seven Concurrency Models in Seven Weeks.pdf
 The art of multiprocessor programming.pdf
+七周七并发模型.pdf
 ## code exercise
 leetcode-cpp.pdf
 ## computer network
@@ -27,12 +28,14 @@ Game Engine Architecture.pdf
 ## linux
 APUE-3rd.pdf
 《鸟哥的Linux私房菜-基础篇》第四版.pdf
+鸟哥的Linux私房菜-服务器架设篇(第三版)高清晰.pdf
 ## others
 cpumemory.pdf
 lamport-paxos.pdf
 podc-1996.pdf
 proactor.pdf
 threads.pdf
+游戏之旅-我的编程感悟 云风著 414页 37.5M 高清书签版.pdf
 ## program language
 C#+6.0+in+a+Nutshell.pdf
 C++ C编程指南》.林锐着.pdf
@@ -45,6 +48,8 @@ Monads for functional programming.pdf
 Programming in Lua third edition.pdf
 Programming in Lua, Third Edition by Roberto Ierusalimschy, Lua.org; 3 edition (January 3, 2013).epub
 Programming in Lua, Third Edition by Roberto Ierusalimschy, Lua.org; 3 edition (January 3, 2013).mobi
+Programming.in.Lua.4th.Edition.2016.8.mobi
+Programming.in.Lua.4th.Edition.2016.8.pdf
 Seven Languages in Seven Weeks.pdf
 The_essence_of_functional_programming_(1992).pdf
 Threading in C#.pdf
@@ -63,6 +68,7 @@ K.Beck, M.Fowler -- Planning Extreme Programming.pdf
 NullObject.pdf
 Refactoring_improving_the_design_of_existing_code.pdf
 the_art_of_readable_code.pdf
+Working Effectively with Legacy Code.pdf
 大话设计模式(带目录完整版).pdf
 ## tools
 progit.pdf
