@@ -2,6 +2,7 @@
  ---------- 
 ## architecture
 1.4亿在线背后的故事-——-腾讯-QQ-IM后台架构的演化与启示.ppt
+Bonus_Chapter.pdf
 lock-free-vector.pdf
 Seven Concurrency Models in Seven Weeks.pdf
 The art of multiprocessor programming.pdf
@@ -13,7 +14,10 @@ HTTP_The+Definitive+Guide.pdf
 HTTP权威指南（真正的完整版，送给爱学习的人）.pdf
 TCP_IP_第5版.pdf
 计算机网络 5edition.pdf
+## container
+Docker-for-Virtualization-Admin-eBook.pdf
 ## database
+Mastering Redis.epub
 O'Reilly.High.Performance.MySQL.3rd.Edition.Mar.2012.pdf
 QConSF2012-EricBrewer-NoSQLPastPresentFuture.pdf
 Redis in Action.pdf
@@ -35,6 +39,7 @@ lamport-paxos.pdf
 podc-1996.pdf
 proactor.pdf
 threads.pdf
+ZeroMQ Messaging for Many Applications.pdf
 游戏之旅-我的编程感悟 云风著 414页 37.5M 高清书签版.pdf
 ## program language
 C#+6.0+in+a+Nutshell.pdf
@@ -48,8 +53,11 @@ Monads for functional programming.pdf
 Programming in Lua third edition.pdf
 Programming in Lua, Third Edition by Roberto Ierusalimschy, Lua.org; 3 edition (January 3, 2013).epub
 Programming in Lua, Third Edition by Roberto Ierusalimschy, Lua.org; 3 edition (January 3, 2013).mobi
+Programming Language Pragmatics 3rd.pdf
+Programming+Language+Pragmatics+4th.pdf
 Programming.in.Lua.4th.Edition.2016.8.mobi
 Programming.in.Lua.4th.Edition.2016.8.pdf
+readinglua.pdf
 Seven Languages in Seven Weeks.pdf
 The_essence_of_functional_programming_(1992).pdf
 Threading in C#.pdf
