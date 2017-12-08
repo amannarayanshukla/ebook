@@ -22,15 +22,22 @@ O'Reilly.High.Performance.MySQL.3rd.Edition.Mar.2012.pdf
 QConSF2012-EricBrewer-NoSQLPastPresentFuture.pdf
 Redis in Action.pdf
 REDIS 入门指南.pdf
+Redis设计与实现.mobi
 Spanner Googles Globally Distributed Database.pdf
 ## distributed system
 Distributed Systems Concepts and Design 5ed.pdf
+paxos-simple.pdf
 Perspectives on the CAP TheoremBrewer2.pdf
 replication2.pdf
 ## game
+Algorithms And Networking For Computer Games.pdf
+dead-reckon.pdf
+fast-action-net-game.pdf
 Game Engine Architecture.pdf
+Hybrid Peer-to-Peer Solution forMMORPGs.pdf
 ## linux
 APUE-3rd.pdf
+UNIX网络编程 卷1.pdf
 《鸟哥的Linux私房菜-基础篇》第四版.pdf
 鸟哥的Linux私房菜-服务器架设篇(第三版)高清晰.pdf
 ## others
