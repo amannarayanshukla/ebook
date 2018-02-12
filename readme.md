@@ -19,6 +19,7 @@ TCP_IP_第5版.pdf
 ## container
 Docker-for-Virtualization-Admin-eBook.pdf
 ## data structure and algrithm
+Data Structure For Game Programers - Ron Penton.pdf
 RedBlack.pdf
 数据结构与算法分析：C语言描述_原书第2版_高清版.pdf
 算法导论中文第二版.pdf
@@ -88,6 +89,9 @@ C Interfaces and Implementations.pdf
 C#+6.0+in+a+Nutshell.pdf
 C++ C编程指南》.林锐着.pdf
 C++ Primer Fifth Edition.pdf
+C++ Templates_ The Complete Guide  -Addison-Wesley Professional 1ed(2002).epub
+C++ Templates_ The Complete Guide-Addison-Wesley (2017).epub
+C++ Templates_ The Complete Guide-Addison-Wesley (2017).pdf
 C++对象模型 PDF中文清晰版.pdf
 C和指针.pdf
 C程序设计语言(第2版_新版).pdf
@@ -105,6 +109,8 @@ Lambda和高阶函数_刘新宇.pdf
 Lua 5.pdf
 Lua中文教程.pdf
 Masterminds of Programming.pdf
+Modern C++ Design_ Generic Programming and Design Patterns Applied by Andrei Alexandrescu-Addison-Wesley Professional (2001).mobi
+Modern C++ Design_ Generic Programming and Design Patterns Applied by Andrei Alexandrescu-Addison-Wesley Professional (2001).pdf
 Monads for functional programming.pdf
 More Effective CPP.pdf
 Object-Oriented Programming With ANSI-C.pdf
