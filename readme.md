@@ -3,7 +3,6 @@
 ## architecture
 1.4亿在线背后的故事-——-腾讯-QQ-IM后台架构的演化与启示.ppt
 Bonus_Chapter.pdf
-lock-free-vector.pdf
 Seven Concurrency Models in Seven Weeks.pdf
 The art of multiprocessor programming.pdf
 七周七并发模型.pdf
@@ -20,6 +19,7 @@ TCP_IP_第5版.pdf
 Docker-for-Virtualization-Admin-eBook.pdf
 ## data structure and algrithm
 Data Structure For Game Programers - Ron Penton.pdf
+lock-free-vector.pdf
 RedBlack.pdf
 数据结构与算法分析：C语言描述_原书第2版_高清版.pdf
 算法导论中文第二版.pdf
@@ -34,13 +34,18 @@ Redis设计与实现.mobi
 Spanner Googles Globally Distributed Database.pdf
 SQL必知必会Ben Forta.mobi
 ## distributed system
+Distributed systems basic concepts.mobi
+Distributed systems basic concepts.pdf
 Distributed Systems Concepts and Design 5ed.pdf
+Impossibility of Distributed Consensus with One Faulty Process (FLP Impossibility).pdf
 lamport-paxos.pdf
+MapReduce Simplified Data Processing on Large Clusters.pdf
 Martin Kleppmann-Designing Data-Intensive Applications_ The Big Ideas Behind Reliable, Scalable, and Maintainable Systems-O’Reilly Media (2017).epub
 Martin Kleppmann-Designing Data-Intensive Applications_ The Big Ideas Behind Reliable, Scalable, and Maintainable Systems-O’Reilly Media (2017).pdf
 paxos-simple.pdf
 Perspectives on the CAP TheoremBrewer2.pdf
 replication2.pdf
+Time, Clocks, and the Ordering of Events in a Distributed System.pdf
 ## game
 Algorithms And Networking For Computer Games.pdf
 dead-reckon.pdf
@@ -97,6 +102,7 @@ C和指针.pdf
 C程序设计语言(第2版_新版).pdf
 C语言接口与实现--创建可重用软件的技术.pdf
 Effective CPP.pdf
+Effective Go - The Go Programming Language.pdf
 Effective Modern CPP.pdf
 Fluent_Scheme简明中文手册-带书签.pdf
 Go语言编程.pdf
@@ -132,7 +138,10 @@ Stephen Prata-C++ Primer Plus-Addison Wesley (2011).pdf
 The C Programming Language 2E.pdf
 The Design And Evolution Of Cpp.pdf
 The development of Chez Scheme.pdf
+The Essence of Compiling with Continuations.pdf
 The Evolution of Lua.pdf
+The Garbage Collection Handbook.pdf
+The Garbage Collection Handbook_The Art of Automatic Memory Management (2011, Chapman and Hall_CRC).epub
 The Seasoned Schemer.pdf
 The.Little.Schemer.4th.2.pdf
 The.MIT.Press.Essentials.of.Programming.Languages.3rd.Edition.Apr.2008.pdf
@@ -143,6 +152,7 @@ Turing Machines And Languages With Only Two Formation Rules.pdf
 关于_思考函数式编程_几点注记_裘宗燕.pdf
 函数式编程语言发展及应用_王学瑞.pdf
 函数式语言并行化的方法_古志民.pdf
+垃圾回收的算法与实现.pdf
 如何编写程序(scheme lambda).PDF
 思考函数式编程_蔡学镛.pdf
 自制编译器 ,青木峰郎著 ,P445.pdf
