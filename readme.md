@@ -142,6 +142,7 @@ The Essence of Compiling with Continuations.pdf
 The Evolution of Lua.pdf
 The Garbage Collection Handbook.pdf
 The Garbage Collection Handbook_The Art of Automatic Memory Management (2011, Chapman and Hall_CRC).epub
+The Go Programming Language.pdf
 The Seasoned Schemer.pdf
 The.Little.Schemer.4th.2.pdf
 The.MIT.Press.Essentials.of.Programming.Languages.3rd.Edition.Apr.2008.pdf
