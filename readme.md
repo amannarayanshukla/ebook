@@ -37,6 +37,7 @@ SQL必知必会Ben Forta.mobi
 Distributed systems basic concepts.mobi
 Distributed systems basic concepts.pdf
 Distributed Systems Concepts and Design 5ed.pdf
+gfs.pdf
 Impossibility of Distributed Consensus with One Faulty Process (FLP Impossibility).pdf
 lamport-paxos.pdf
 MapReduce Simplified Data Processing on Large Clusters.pdf
