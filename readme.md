@@ -134,7 +134,6 @@ scheme÷Æµ¿.docx
 Seven Languages in Seven Weeks.pdf
 Simply.Scheme.pdf
 Stephen Prata-C Primer Plus, 6th Edition-Addison-Wesley (2013).pdf
-Stephen Prata-C++ Primer Plus-Addison Wesley (2011).pdf
 The C Programming Language 2E.pdf
 The Design And Evolution Of Cpp.pdf
 The development of Chez Scheme.pdf
